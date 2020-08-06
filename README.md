@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project is the inital learning project for the 1st Udemy training program for Ruby for Rails.
 
-Things you may want to cover:
+It does not use scaffolding.  This allows for an enhanced understanding of how RoR works.
 
-* Ruby version
+Additional notes:
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
