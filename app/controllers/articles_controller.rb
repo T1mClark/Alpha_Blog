@@ -8,5 +8,13 @@ class ArticlesController < ApplicationController
       @article = Article.find(params[:id])
 
   end
+
+  def index
+    #
+    #Assign the instance variable (@articles) a hash of all of the articles.
+   
+    @articles = Article.all
+    
+  end
   
 end
