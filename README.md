@@ -1,9 +1,14 @@
 # README
 
-This project is the inital learning project for the 1st Udemy training program for Ruby for Rails.
+  <div class="container" id="home-container">
+    <div class="jumbotron text-center text-white">
+      <h1 class="display-4">Alpha Blog</h1>
+      <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+      <hr class="my-4">
+      <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+      <a class="btn btn-success btn-lg" href="#" role="button">Sign Up</a>
+    </div>
+  
 
-It does not use scaffolding.  This allows for an enhanced understanding of how RoR works.
-
-Additional notes:
-
-
+<%= link_to 'Display Current Article Listing.', articles_path %> |
+<%= link_to 'About', about_path %>
